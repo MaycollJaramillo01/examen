@@ -1,0 +1,18 @@
+<resources>
+    <string name="yen_app_name">Room Booking</string>
+    <string name="yen_login_title">Room Booking</string>
+    <string name="yen_username">Username</string>
+    <string name="yen_password">Password</string>
+    <string name="yen_sign_in">Sign in</string>
+    <string name="yen_use_sample">Use sample user: estudiante</string>
+    <string name="yen_rooms_title">Rooms</string>
+    <string name="yen_refresh">Refresh rooms</string>
+    <string name="yen_acting_user">Acting as user</string>
+    <string name="yen_new_room_name">New room name</string>
+    <string name="yen_create_room">Create room</string>
+    <string name="yen_reserve_room">Reserve room</string>
+    <string name="yen_release_room">Release room</string>
+    <string name="yen_available">Available</string>
+    <string name="yen_reserved_by">Reserved by %1$s</string>
+    <string name="yen_logout">Logout</string>
+</resources>
